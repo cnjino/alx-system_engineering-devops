@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'Ac' 'ze' < inputfile > outputfile 
+tr 'A' 'c' | tr 'z' 'e' 
